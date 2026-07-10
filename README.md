@@ -18,6 +18,8 @@ I am interested in guidance, navigation, and control for highly dynamic aerospac
 
 Developing an STM32F405-based replay platform for avionics firmware validation, including timed playback of simulated IMU, barometer, magnetometer, and GNSS data through a packetized interface.
 
+[View public replay toolkit](https://github.com/kywls405/rocket-hils-replay)
+
 ### Rocket Telemetry and Ground Control Station
 
 Built a real-time web ground control station for rocket telemetry visualization and integrated decoding for IMU, GPS, altitude, attitude, and flight-status data.
