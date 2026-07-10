@@ -22,7 +22,7 @@ Developing an STM32F405-based replay platform for avionics firmware validation, 
 
 Built a real-time web ground control station for rocket telemetry visualization and integrated decoding for IMU, GPS, altitude, attitude, and flight-status data.
 
-[View repository](https://github.com/kywls405/NURA2025_GCS)
+[View repository](https://github.com/kywls405/rocket-telemetry-gcs)
 
 ### INS/GNSS Integrated Navigation
 
