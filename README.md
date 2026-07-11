@@ -38,6 +38,8 @@ Developing control software and electronic systems for a motor-actuated stroller
 
 Optimized RISC-V assembly kernels for CNN accelerator data movement, address generation, and memory-access scheduling.
 
+[View repository](https://github.com/kywls405/riscv-cnn-accelerator-optimization)
+
 ### Tiny Neural Network Accelerator
 
 Implemented a Verilog accelerator for FC1-Norm-ReLU-FC2 inference using a reusable 4x4 weight-stationary systolic array and tiled matrix multiplication.
