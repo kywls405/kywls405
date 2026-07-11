@@ -30,6 +30,8 @@ Built a real-time web ground control station for rocket telemetry visualization 
 
 Studied loosely coupled INS/GNSS integration using an extended Kalman filter and evaluated position, velocity, and attitude estimation errors with reference trajectory data.
 
+[View repository](https://github.com/kywls405/ins-gnss-ekf-navigation)
+
 ### Active Suspension System
 
 Developing control software and electronic systems for a motor-actuated stroller suspension prototype, with an IMU-based vibration evaluation workflow for active and passive suspension comparison.
