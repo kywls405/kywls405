@@ -53,7 +53,7 @@ Implemented a Verilog accelerator for FC1-Norm-ReLU-FC2 inference using a reusab
 ## Additional Embedded Systems Work
 
 - [Wine bottle sealing vision and control system](https://github.com/kywls405/WineQueen)
-- DJI Tello video streaming and YOLO-based person-detection prototype
+- [DJI Tello video streaming and YOLO-based person-detection prototype](https://github.com/kywls405/tello-yolo-person-detection)
 
 ## Technical Skills
 
