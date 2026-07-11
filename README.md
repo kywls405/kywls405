@@ -34,6 +34,8 @@ Studied loosely coupled INS/GNSS integration using an extended Kalman filter and
 
 Developing control software and electronic systems for a motor-actuated stroller suspension prototype, with an IMU-based vibration evaluation workflow for active and passive suspension comparison.
 
+[View repository](https://github.com/kywls405/stroller-active-suspension)
+
 ### CNN Accelerator Optimization with RISC-V
 
 Optimized RISC-V assembly kernels for CNN accelerator data movement, address generation, and memory-access scheduling.
