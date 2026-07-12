@@ -24,7 +24,7 @@ Developing an STM32F405-based replay platform for avionics firmware validation, 
 
 Built a real-time web ground control station for rocket telemetry visualization and integrated decoding for IMU, GPS, altitude, attitude, and flight-status data.
 
-[View repository](https://github.com/kywls405/rocket-telemetry-gcs)
+[View repository](https://github.com/kywls405/rocket-telemetry-gcs-public)
 
 ### INS/GNSS Integrated Navigation
 
@@ -50,15 +50,27 @@ Implemented a Verilog accelerator for FC1-Norm-ReLU-FC2 inference using a reusab
 
 [View repository](https://github.com/kywls405/tiny-nn-accelerator-verilog)
 
+### Zynq FFT Software Optimization
+
+Completed and benchmarked a 64-point radix-2 DIF FFT on an embedded ARM platform, comparing algorithm, compiler-optimization, and cache effects.
+
+[View study and benchmark notes](https://github.com/kywls405/zynq-fft-software-optimization)
+
+### Five-Stage Tiny CPU
+
+Implemented a 16-bit pipelined CPU with arithmetic, memory, and branch instructions, including multi-stage data forwarding.
+
+[View architecture and verification notes](https://github.com/kywls405/verilog-pipelined-tiny-cpu)
+
 ## Additional Embedded Systems Work
 
-- [Wine bottle sealing vision and control system](https://github.com/kywls405/WineQueen)
+- [Wine bottle sealing vision and control system](https://github.com/kywls405/WineQueen-public)
 - [DJI Tello video streaming and YOLO-based person-detection prototype](https://github.com/kywls405/tello-yolo-person-detection)
 
 ## Technical Skills
 
 - Programming: Python, C/C++, MATLAB, Verilog, RISC-V Assembly
-- Hardware Platforms: STM32, Arduino, Raspberry Pi
+- Hardware Platforms: STM32, Arduino, Raspberry Pi, Xilinx Zynq-7000
 - Tools: Linux, KiCad, Vivado, OrCAD, Fusion 360
 
 ## Links
