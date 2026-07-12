@@ -24,7 +24,7 @@ Developing an STM32F405-based replay platform for avionics firmware validation, 
 
 Built a real-time web ground control station for rocket telemetry visualization and integrated decoding for IMU, GPS, altitude, attitude, and flight-status data.
 
-[View repository](https://github.com/kywls405/rocket-telemetry-gcs-public)
+[View repository](https://github.com/kywls405/rocket-telemetry-gcs)
 
 ### INS/GNSS Integrated Navigation
 
@@ -64,7 +64,7 @@ Implemented a 16-bit pipelined CPU with arithmetic, memory, and branch instructi
 
 ## Additional Embedded Systems Work
 
-- [Wine bottle sealing vision and control system](https://github.com/kywls405/WineQueen-public)
+- [Wine bottle sealing vision and control system](https://github.com/kywls405/WineQueen)
 - [DJI Tello video streaming and YOLO-based person-detection prototype](https://github.com/kywls405/tello-yolo-person-detection)
 
 ## Technical Skills
